@@ -281,7 +281,7 @@
 
 - 古典音乐台 FM 97.7 | http://59.120.88.155:8000/live.mp3
 - 警察广播电台 全国治安交通网 | http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8
-- 台湾国际广播电台 RTI | https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
+- 台湾国际广播电台 RTI | [https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8](https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8)
 - 台北国际社区广播电台 ICRT | https://stream.rcs.revma.com/nkdfurztxp3vv
 - 警察广播电台 全国治安交通网 FM 104.9 | https://stream.pbs.gov.tw/live/PBS/playlist.m3u8
 - 警察广播电台 台北分台 FM 94.3 | https://stream.pbs.gov.tw/live/TPS/playlist.m3u8
